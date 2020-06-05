@@ -48,7 +48,6 @@ class IndecisionApp extends React.Component{
 }
 
 class Header extends React.Component {
-    // Must define render()
     render() {
         return (
             <div>
